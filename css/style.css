@@ -111,3 +111,39 @@ main section {
     flex-shrink: 0;
     color: #16D887;
 }
+
+
+/* Plans Related Style  */
+.section__title {
+    color: #151414;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.plan__container {
+    max-width: 1072px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin: 100px auto 0;
+}
+
+.plan__img {
+    width: 92.958px;
+    height: 92.958px;
+    flex-shrink: 0;
+}
+
+.plan__title {
+    color: #151414;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 24px 0 16px;
+}
+
+.plan__subtitle {
+    color:#737272;
+    font-size: 25px;
+    font-weight: 500;
+}
